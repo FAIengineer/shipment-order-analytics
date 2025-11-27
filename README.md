@@ -23,7 +23,7 @@ Although the project follows a YouTube tutorial for guidance, all work was indep
 ## 🧠 Technical Skills Practiced
 
 ### 🔹 Data Engineering Skills
-- Automated dataset retrieval using the **Kaggle API**
+- Automated dataset retrieval using **Kaggle API**
 - File extraction using Python (`zipfile`)
 - Python-to-database connectivity via **SQLAlchemy** & **psycopg2**
 - Loading DataFrames into PostgreSQL
